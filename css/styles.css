@@ -565,6 +565,11 @@ img {
 .modal-close-btn:focus {
   background-color: #404bbf;
   border: none;
+  /* fill: #ffffff; */
+}
+
+.modal-close-btn:hover,
+.modal-close-btn:focus {
   fill: #ffffff;
 }
 
@@ -618,7 +623,7 @@ img {
   fill: #4d5ae5;
 }
 
-contact-form-textarea-wrapper {
+.contact-form-textarea-wrapper {
   margin-bottom: 16px;
 }
 
