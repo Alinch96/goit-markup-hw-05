@@ -569,7 +569,7 @@ img {
 }
 
 .modal-close-btn:hover,
-.modal-close-btn:focus {
+.modal-close-btn:focus .modal-close-btn-icon {
   fill: #ffffff;
 }
 
